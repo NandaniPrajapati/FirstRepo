@@ -1,5 +1,5 @@
 public class gitClass{
  public static void main(string args[]){
-system.out.print("my first git push");
+system.out.print("my first git push ");
 }
 }
